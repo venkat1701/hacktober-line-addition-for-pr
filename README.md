@@ -17,7 +17,7 @@ Welcome! 🎉 We’re excited to have you contribute to this project. Here’s a
 To make changes locally, clone your fork:
 
 ```bash
-git clone https://github.com/your-username/hacktober-line-addition-for-pr.git
+git clone https://github.com/BlazePhenom/hacktober-line-addition-for-pr.git
 ```
 
 > **Note**: Replace `your-username` with your actual GitHub username.
@@ -33,7 +33,7 @@ cd hacktober-line-addition-for-pr
 Then, create and switch to a new branch:
 
 ```bash
-git checkout -b your-branch-name
+git checkout -b add-new-spaces
 ```
 
 > **Note**: Replace `your-branch-name` with a descriptive name (e.g., `add-new-line` or `add-new-comment`).
@@ -61,7 +61,7 @@ git commit -m "Briefly describe what you changed"
 Push your changes to the branch on your forked repository:
 
 ```bash
-git push origin your-branch-name
+git push origin add-new-spaces
 ```
 
 ### Step 7: Create a Pull Request
